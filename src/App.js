@@ -12,7 +12,7 @@
 // }
 import "./App.css";
 import React, { lazy, Suspense, useEffect } from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./component/home.js";
 
 import Product from "./component/product.js";
