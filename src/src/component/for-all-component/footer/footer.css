@@ -1,0 +1,236 @@
+/* Fonts
+------------------------------------------------------------------------------*/
+
+@font-face {
+  font-family: "Novecentowide";
+  src: url("../../fonts/Novecentowide-Bold.eot");
+  src: url("../../fonts/Novecentowide-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../fonts/Novecentowide-Bold.woff") format("woff"),
+    url("../../fonts/Novecentowide-Bold.ttf") format("truetype"),
+    url("../../fonts/Novecentowide-Bold.svg#Novecentowide-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Novecentowide";
+  src: url("../../fonts/Novecentowide-Book.eot");
+  src: url("../../fonts/Novecentowide-Book.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../fonts/Novecentowide-Book.woff") format("woff"),
+    url("../../fonts/Novecentowide-Book.ttf") format("truetype"),
+    url("../../fonts/Novecentowide-Book.svg#Novecentowide-Book") format("svg");
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Novecentowide";
+  src: url("../../fonts/Novecentowide-Medium.eot");
+  src: url("../../fonts/Novecentowide-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../fonts/Novecentowide-Medium.woff") format("woff"),
+    url("../../fonts/Novecentowide-Medium.ttf") format("truetype"),
+    url("../../fonts/Novecentowide-Medium.svg#Novecentowide-Medium")
+      format("svg");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Novecentowide";
+  src: url("../../fonts/Novecentowide-Normal.eot");
+  src: url("../../fonts/Novecentowide-Normal.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../fonts/Novecentowide-Normal.woff") format("woff"),
+    url("../../fonts/Novecentowide-Normal.ttf") format("truetype"),
+    url("../../fonts/Novecentowide-Normal.svg#Novecentowide-Normal")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Novecentowide";
+  src: url("../../fonts/Novecentowide-DemiBold.eot");
+  src: url("../../fonts/Novecentowide-DemiBold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../fonts/Novecentowide-DemiBold.woff") format("woff"),
+    url("../../fonts/Novecentowide-DemiBold.ttf") format("truetype"),
+    url("../../fonts/Novecentowide-DemiBold.svg#Novecentowide-DemiBold")
+      format("svg");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Novecentowide";
+  src: url("../../fonts/Novecentowide-Light.eot");
+  src: url("../../fonts/Novecentowide-Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../fonts/Novecentowide-Light.woff") format("woff"),
+    url("../../fonts/Novecentowide-Light.ttf") format("truetype"),
+    url("../../fonts/Novecentowide-Light.svg#Novecentowide-Light") format("svg");
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* all
+  ------------------------------------------------------------------------------*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+  font-family: "Novecentowide";
+}
+
+a {
+  text-decoration: none;
+  color: #888888;
+}
+
+/* footer
+  ------------------------------------------------------------------------------*/
+/* .footer {
+  padding: 100px;
+  margin-top: 100px;
+} */
+
+#footer {
+  clear: both;
+  background: #222224 url(../../images/bg_footer.png);
+  color: #a5a5aa;
+  font-size: 14px;
+  line-height: 30px;
+  margin-top: -5px;
+  padding-top: 50px;
+}
+
+#footer h3 {
+  color: #fff;
+  font-family: "Novecentowide";
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+
+#footer .conact p {
+  line-height: 24px;
+  font-size: 14px;
+  padding: 2px 0 0;
+  margin-bottom: 8px;
+}
+
+#footer .copy {
+  color: #717176;
+  font-size: 14px;
+  padding: 28px 0;
+  clear: both;
+  width: 90%;
+  margin: auto;
+  border-top: 1px solid #333336;
+  text-align: center;
+}
+
+.comntain-txt {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+}
+
+.marin-0 {
+  margin-right: 70px;
+  /* border-right: 1px solid white; */
+}
+
+.marin-1 {
+  text-align: left;
+}
+
+/* .marin {
+    margin: auto;
+    float: none;
+    margin-bottom: 20px;
+    width: 10%;
+  }
+  
+  .conact {
+    width: 100%;
+  } */
+
+.conact i {
+  color: white;
+  font-size: 1.1rem;
+  margin-right: 4px;
+}
+
+.icon-0 {
+  margin-bottom: -500px;
+}
+
+.ico0 {
+  margin-left: -21px;
+}
+
+.icon-0 i {
+  font-size: 1.8rem;
+  color: white;
+}
+
+.conact #p-0 {
+  margin-left: 3px;
+  margin-right: 5.4px;
+}
+
+.conact #p-2 {
+  margin-left: -1px;
+}
+
+@media screen and (max-width: 561px) {
+  .comntain-txt {
+    display: block;
+    width: 100%;
+    margin-left: 13px;
+    /* margin-left: 40vw; */
+  }
+  .marin-0 {
+    margin: auto;
+  }
+  .marin-1 {
+    margin-top: 30px;
+  }
+  .line {
+    margin: 10px 0;
+  }
+}
+
+.box i {
+  font-size: 3rem;
+}
+
+.box .p {
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.box .p {
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.box p {
+  color: white;
+}
+
+.e {
+  margin: auto;
+  border-bottom: 2px solid #d3b15b;
+  width: 100px;
+  margin-bottom: 1rem;
+}
+
+.marin-1 .p {
+  margin-bottom: 50px;
+  margin-top: 0px;
+}
