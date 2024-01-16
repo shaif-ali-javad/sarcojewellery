@@ -156,7 +156,6 @@ const Home = () => {
                   value=""
                   placeholder="type your message.."
                   title="Please enter a valid email address."
-                  required
                 />
                 <button type="submit" className="submit btn">
                   GO
