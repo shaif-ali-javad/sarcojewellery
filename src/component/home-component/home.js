@@ -162,7 +162,7 @@ const Home = () => {
                   GO
                 </button>
               </form> */}
-              {/* <form
+              <form
                 action="https://formsubmit.co/d00c55b4992d54184e0fefc3abe61941"
                 method="POST"
                 className="form0"
@@ -178,7 +178,7 @@ const Home = () => {
                 <button type="submit" className="submit btn">
                   GO
                 </button>
-              </form> */}
+              </form>
             </div>
           </div>
         </div>
