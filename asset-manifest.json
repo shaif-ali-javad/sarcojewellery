@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a6046c19.css",
-    "main.js": "/static/js/main.cbf384cc.js",
+    "main.js": "/static/js/main.e7aa1dae.js",
     "static/media/red-bike.jpeg": "/static/media/red-bike.323550aa5f385d86de44.jpeg",
     "static/media/slider2.jpeg": "/static/media/slider2.8155e761900760d17658.jpeg",
     "static/media/slider1.jpeg": "/static/media/slider1.a3e8cfdb7ba2a80de218.jpeg",
@@ -34,10 +34,10 @@
     "static/media/Novecentowide-Bold.woff": "/static/media/Novecentowide-Bold.a99f8670d27ef505986d.woff",
     "index.html": "/index.html",
     "main.a6046c19.css.map": "/static/css/main.a6046c19.css.map",
-    "main.cbf384cc.js.map": "/static/js/main.cbf384cc.js.map"
+    "main.e7aa1dae.js.map": "/static/js/main.e7aa1dae.js.map"
   },
   "entrypoints": [
     "static/css/main.a6046c19.css",
-    "static/js/main.cbf384cc.js"
+    "static/js/main.e7aa1dae.js"
   ]
 }
