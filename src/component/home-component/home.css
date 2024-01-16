@@ -367,9 +367,9 @@ a {
   }
 }
 
-@media screen and (max-width: 670px) {
+@media screen and (max-width: 689px) {
   .slide-wrapper {
-    width: 660px;
+    width: 671px;
     animation: slideAnimation 22s linear infinite;
   }
 }
