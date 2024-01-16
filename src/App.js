@@ -37,7 +37,7 @@ function App() {
         {/* <Suspense fallback={<h1>loading....</h1>}> */}
         <Routes>
           <Route exact path="/" element={<Home />} />
-          {/* <Route path="/sarcojewellery" element={<Home />} /> */}
+          <Route path="/sarcojewellery" element={<Home />} />
           <Route path="/product" element={<Product />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
