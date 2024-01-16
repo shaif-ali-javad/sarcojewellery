@@ -25,25 +25,25 @@ class Navbar extends Component {
             >
               <div className="backdrop"></div>
               <li>
-                <NavLink className="link" to="/">
+                <NavLink className="link" to="">
                   <i className="fa-solid fa-house" id="a-0"></i>
                   HOME
                 </NavLink>
               </li>
               <li>
-                <NavLink className="link" to="/product">
+                <NavLink className="link" to="product">
                   <i className="fa-solid fa-coins" id="a-1"></i>
                   PRODUCT
                 </NavLink>
               </li>
               <li>
-                <NavLink className="link" to="/about">
+                <NavLink className="link" to="about">
                   <i className="fa-solid fa-user-tie" id="a-2"></i>
                   ABOUT
                 </NavLink>
               </li>
               <li>
-                <NavLink className="link" to="/contact">
+                <NavLink className="link" to="contact">
                   <i className="fa-solid fa-phone" id="a-3"></i>
                   CONTACT
                 </NavLink>
