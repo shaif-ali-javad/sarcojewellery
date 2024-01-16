@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5dcc09c5.css",
-    "main.js": "/static/js/main.5a25b12f.js",
+    "main.css": "/static/css/main.0edfd1b1.css",
+    "main.js": "/static/js/main.eda91fde.js",
     "static/media/red-bike.jpeg": "/static/media/red-bike.323550aa5f385d86de44.jpeg",
     "static/media/slider2.jpeg": "/static/media/slider2.8155e761900760d17658.jpeg",
     "static/media/slider1.jpeg": "/static/media/slider1.a3e8cfdb7ba2a80de218.jpeg",
@@ -33,11 +33,11 @@
     "static/media/Novecentowide-Normal.woff": "/static/media/Novecentowide-Normal.111b3a34dbc8da1b8f82.woff",
     "static/media/Novecentowide-Bold.woff": "/static/media/Novecentowide-Bold.a99f8670d27ef505986d.woff",
     "index.html": "/index.html",
-    "main.5dcc09c5.css.map": "/static/css/main.5dcc09c5.css.map",
-    "main.5a25b12f.js.map": "/static/js/main.5a25b12f.js.map"
+    "main.0edfd1b1.css.map": "/static/css/main.0edfd1b1.css.map",
+    "main.eda91fde.js.map": "/static/js/main.eda91fde.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dcc09c5.css",
-    "static/js/main.5a25b12f.js"
+    "static/css/main.0edfd1b1.css",
+    "static/js/main.eda91fde.js"
   ]
 }
