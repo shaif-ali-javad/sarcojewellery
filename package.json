@@ -1,6 +1,6 @@
 {
-  "homepage": "https://www.sarcojewellery.com/",
   "name": "sarcojewellery",
+  "homepage": "https://www.sarcojewellery.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

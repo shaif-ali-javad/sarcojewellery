@@ -144,7 +144,7 @@ const Home = () => {
               <h2 data-aos="zoom-out-right" className="mail-heading">
                 mail us
               </h2>
-              <form
+              {/* <form
                 action="https://formsubmit.co/d00c55b4992d54184e0fefc3abe61941"
                 method="POST"
                 className="form0"
@@ -156,11 +156,29 @@ const Home = () => {
                   value=""
                   placeholder="type your message.."
                   title="Please enter a valid email address."
+                  required
                 />
                 <button type="submit" className="submit btn">
                   GO
                 </button>
-              </form>
+              </form> */}
+              {/* <form
+                action="https://formsubmit.co/d00c55b4992d54184e0fefc3abe61941"
+                method="POST"
+                className="form0"
+              >
+                <input
+                  className="signup-input"
+                  type="text"
+                  // name="message"
+                  placeholder="type your message.."
+                  title="Please enter a valid email address."
+                  required
+                />
+                <button type="submit" className="submit btn">
+                  GO
+                </button>
+              </form> */}
             </div>
           </div>
         </div>
