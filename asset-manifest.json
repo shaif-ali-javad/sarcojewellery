@@ -1,16 +1,43 @@
 {
   "files": {
-    "main.css": "/sarcojewellery/static/css/main.f855e6bc.css",
-    "main.js": "/sarcojewellery/static/js/main.b1680105.js",
-    "static/js/787.3ec41245.chunk.js": "/sarcojewellery/static/js/787.3ec41245.chunk.js",
-    "static/media/logo.svg": "/sarcojewellery/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/sarcojewellery/static/css/main.f8bffe18.css",
+    "main.js": "/sarcojewellery/static/js/main.ab06001f.js",
+    "static/media/red-bike.jpeg": "/sarcojewellery/static/media/red-bike.323550aa5f385d86de44.jpeg",
+    "static/media/slider2.jpeg": "/sarcojewellery/static/media/slider2.8155e761900760d17658.jpeg",
+    "static/media/slider1.jpeg": "/sarcojewellery/static/media/slider1.a3e8cfdb7ba2a80de218.jpeg",
+    "static/media/slider0.jpg": "/sarcojewellery/static/media/slider0.fcf057e1a67d55a45e2e.jpg",
+    "static/media/red-frame.jpg": "/sarcojewellery/static/media/red-frame.b0351995f864f2b75f06.jpg",
+    "static/media/Novecentowide-DemiBold.svg": "/sarcojewellery/static/media/Novecentowide-DemiBold.39073a8ca28ce220263d.svg",
+    "static/media/Novecentowide-Medium.svg": "/sarcojewellery/static/media/Novecentowide-Medium.d13eb93660af410e9aba.svg",
+    "static/media/Novecentowide-Normal.svg": "/sarcojewellery/static/media/Novecentowide-Normal.72b307d4fd8e175fd652.svg",
+    "static/media/Novecentowide-Book.svg": "/sarcojewellery/static/media/Novecentowide-Book.f55ec375b4a8076eebfd.svg",
+    "static/media/Novecentowide-Bold.svg": "/sarcojewellery/static/media/Novecentowide-Bold.61abf26c488b7dc978bc.svg",
+    "static/media/Novecentowide-Light.svg": "/sarcojewellery/static/media/Novecentowide-Light.0520efb9b39f6738ff63.svg",
+    "static/media/phone-icon.png": "/sarcojewellery/static/media/phone-icon.ec3f4ac0cb2deab25c00.png",
+    "static/media/Novecentowide-Light.eot": "/sarcojewellery/static/media/Novecentowide-Light.5abe17586b74b3bbae53.eot",
+    "static/media/Novecentowide-Light.ttf": "/sarcojewellery/static/media/Novecentowide-Light.21e909fc32c61d02630e.ttf",
+    "static/media/Novecentowide-Normal.eot": "/sarcojewellery/static/media/Novecentowide-Normal.a6953123866659034427.eot",
+    "static/media/Novecentowide-Book.eot": "/sarcojewellery/static/media/Novecentowide-Book.e7a3462324908f2254a3.eot",
+    "static/media/Novecentowide-Normal.ttf": "/sarcojewellery/static/media/Novecentowide-Normal.feb76b125e3d76ea3d8f.ttf",
+    "static/media/Novecentowide-Book.ttf": "/sarcojewellery/static/media/Novecentowide-Book.d881bff9a71f89f5e311.ttf",
+    "static/media/Novecentowide-DemiBold.eot": "/sarcojewellery/static/media/Novecentowide-DemiBold.e76260c5a5b09ddfa5d7.eot",
+    "static/media/Novecentowide-Medium.eot": "/sarcojewellery/static/media/Novecentowide-Medium.c5a215bb97574b7331a2.eot",
+    "static/media/Novecentowide-DemiBold.ttf": "/sarcojewellery/static/media/Novecentowide-DemiBold.196fa7061d3ba758af8a.ttf",
+    "static/media/Novecentowide-Medium.ttf": "/sarcojewellery/static/media/Novecentowide-Medium.d3e4b3c29b1c92882ad4.ttf",
+    "static/media/Novecentowide-Bold.eot": "/sarcojewellery/static/media/Novecentowide-Bold.763ce5769f51fabe8355.eot",
+    "static/media/Novecentowide-Bold.ttf": "/sarcojewellery/static/media/Novecentowide-Bold.45c42b0425b85f0ac826.ttf",
+    "static/media/Novecentowide-Book.woff": "/sarcojewellery/static/media/Novecentowide-Book.dfeaef3384adf3f1437c.woff",
+    "static/media/Novecentowide-Medium.woff": "/sarcojewellery/static/media/Novecentowide-Medium.408faeda6af8527c4033.woff",
+    "static/media/Novecentowide-Light.woff": "/sarcojewellery/static/media/Novecentowide-Light.cdf960edef70ad95d206.woff",
+    "static/media/Novecentowide-DemiBold.woff": "/sarcojewellery/static/media/Novecentowide-DemiBold.414f1e1a94c28d8216ce.woff",
+    "static/media/Novecentowide-Normal.woff": "/sarcojewellery/static/media/Novecentowide-Normal.111b3a34dbc8da1b8f82.woff",
+    "static/media/Novecentowide-Bold.woff": "/sarcojewellery/static/media/Novecentowide-Bold.a99f8670d27ef505986d.woff",
     "index.html": "/sarcojewellery/index.html",
-    "main.f855e6bc.css.map": "/sarcojewellery/static/css/main.f855e6bc.css.map",
-    "main.b1680105.js.map": "/sarcojewellery/static/js/main.b1680105.js.map",
-    "787.3ec41245.chunk.js.map": "/sarcojewellery/static/js/787.3ec41245.chunk.js.map"
+    "main.f8bffe18.css.map": "/sarcojewellery/static/css/main.f8bffe18.css.map",
+    "main.ab06001f.js.map": "/sarcojewellery/static/js/main.ab06001f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.b1680105.js"
+    "static/css/main.f8bffe18.css",
+    "static/js/main.ab06001f.js"
   ]
 }
