@@ -89,7 +89,7 @@ const Home = () => {
                     </h2>
                     <p data-aos="fade-up" className="twitter-post ppp">
                       For any reason, if you’re unhappy with our payment, we’ll
-                      return your jewellery at no extra cost.
+                      return your gold at no extra cost.
                     </p>
                   </div>
                   <div className="box box2">
