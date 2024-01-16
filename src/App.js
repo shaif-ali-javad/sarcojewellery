@@ -18,7 +18,7 @@ import Home from "./component/home.js";
 import Product from "./component/product.js";
 import About from "./component/about.js";
 import Contact from "./component/contact.js";
-
+import ScrollToTop from "./component/for-all-component/scroll-to-top.js";
 // const Product = lazy(() => import("./component/product.js"));
 // const About = lazy(() => import("./component/about.js"));
 // const Contact = lazy(() => import("./component/contact.js"));
@@ -34,6 +34,7 @@ function App() {
   return (
     <>
       <Router>
+        <ScrollToTop />
         {/* <Suspense fallback={<h1>loading....</h1>}> */}
         <Routes>
           <Route exact path="/" element={<Home />} />
