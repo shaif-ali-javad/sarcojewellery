@@ -17,7 +17,7 @@ export class Product extends Component {
             </div>
             <div className="row">
               {/* <!-- Single Product --> */}
-              <div data-aos="fade-up" className="col-md-6 col-lg-4 col-xl-6">
+              <div data-aos="fade-right" className="col-md-6 col-lg-4 col-xl-6">
                 <div id="product-1" className="single-product">
                   <div className="part-1">
                     <ul>
@@ -44,7 +44,7 @@ export class Product extends Component {
                 </div>
               </div>
               {/* <!-- Single Product --> */}
-              <div data-aos="fade-up" className="col-md-6 col-lg-4 col-xl-6">
+              <div data-aos="fade-right" className="col-md-6 col-lg-4 col-xl-6">
                 <div id="product-4" className="single-product">
                   <div className="part-1">
                     <ul>
@@ -57,7 +57,7 @@ export class Product extends Component {
                 </div>
               </div>
               {/* <!-- Single Product --> */}
-              <div data-aos="fade-down" className="col-md-6 col-lg-6 col-xl-6">
+              <div data-aos="fade-right" className="col-md-6 col-lg-6 col-xl-6">
                 <div id="product-5" className="single-product">
                   <div className="part-1">
                     <ul>
