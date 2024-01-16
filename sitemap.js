@@ -9,7 +9,7 @@ const generateSitemap = async () => {
     { url: "/#/contact", changefreq: "weekly", priority: 0.8 },
   ];
 
-  const stream = new SitemapStream({ hostname: "https://yourwebsite.com" });
+  const stream = new SitemapStream({ hostname: "https://sarcojewellery.com" });
 
   urls.forEach((url) => {
     stream.write(url);
