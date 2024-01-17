@@ -8,12 +8,14 @@ import Footer from "./for-all-component/footer/footer";
 // import Web from "./home/web-services/web-s";
 // import ServicesPage from "./framer-m";
 // import Example from "./framer-motion";
+// import Bg from "./home-component/background/particle-bg.js";
 
 function Home() {
   return (
     <div>
       <Navbar />
       <Home1 />
+      {/* <Bg /> */}
       <Footer />
     </div>
   );

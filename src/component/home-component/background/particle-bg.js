@@ -1,16 +1,64 @@
-import { useCallback, useEffect, useState } from "react";
-import Particles from "@tsparticles/react";
-// import { loadAll } from "@/tsparticles/all"; // if you are going to use `loadAll`, install the "@tsparticles/all" package too.
-// import { loadFull } from "tsparticles"; // if you are going to use `loadFull`, install the "tsparticles" package too.
-// import { loadSlim } from "@tsparticles/slim"; // if you are going to use `loadSlim`, install the "@tsparticles/slim" package too.
-import { loadBasic } from "@tsparticles/basic"; // if you are going to use `loadBasic`, install the "@tsparticles/basic" package too.
-// import { Await } from "react-router-dom";
+// import React from "react";
+// import Particles from "@tsparticles/react";
+// import { loadSlim } from "@tsparticles/slim";
 
-function particlebg() {
-  async function load(main) {
-    await loadBasic(main);
-  }
-  return <Particles id="tsparticles" init={load} />;
-}
+// const Bg = (props) => {
+//   const options = {
+//     background: {
+//       color: "#000",
+//     },
+//     fullScreen: {
+//       enable: true,
+//       zIndex: -1,
+//     },
+//     interactivity: {
+//       events: {
+//         onClick: {
+//           enable: true,
+//           mode: "push",
+//         },
+//         onHover: {
+//           enable: true,
+//           mode: "repulse",
+//         },
+//       },
+//       modes: {
+//         push: {
+//           quantity: 1,
+//         },
+//         repulse: {
+//           distance: 100,
+//         },
+//       },
+//     },
+//     particles: {
+//       move: {
+//         enable: true,
+//         speed: 2,
+//         direction: "none",
+//         random: true, // Randomize particle movement
+//         straight: false,
+//         outMode: "out",
+//       },
 
-export default particlebg;
+//       move: {
+//         enable: true,
+//         speed: 2,
+//       },
+//       opacity: {
+//         value: 0.5,
+//       },
+//       size: {
+//         value: 5,
+//       },
+//     },
+//   };
+
+//   const particlesInit = (engine) => {
+// loadSlim(engine);
+//   };
+
+//   return <Particles id={props.id} init={particlesInit} options={options} />;
+// };
+
+// export default Bg;
