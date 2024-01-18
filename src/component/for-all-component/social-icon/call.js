@@ -6,13 +6,17 @@ class Call extends React.Component {
     return (
       <div
         className="call-contain"
-        style={{ position: "fixed", bottom: "20px", right: "20px" }}
+        style={{ position: "fixed", bottom: "-7px", right: "1px" }}
       >
-        <img
-          src={require("../../img/phone-icon.png")}
+        <iframe
+          className="bending-image"
+          src="https://lottie.host/embed/8b13fe12-0d51-441b-b9cb-de0845117904/l9TJT92z5R.json"
+        ></iframe>
+        {/* <img
+          src={require("https://lottie.host/67806560-e09c-4480-a555-fd8e685b49a3/VGR1aE3erM.json")}
           className="bending-image"
           alt=""
-        />
+        /> */}
       </div>
     );
   }

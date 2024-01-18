@@ -2,9 +2,9 @@
   margin-top: 65px;
 }
 
-.slider-contain img {
+/* .slider-contain img {
   height: 500px;
-}
+} */
 
 @media screen and (max-width: 800px) {
   .slider-contain img {
@@ -12,8 +12,8 @@
   }
 }
 
-@media screen and (max-width: 660px) {
+/* @media screen and (max-width: 660px) {
   .slider-contain img {
     height: 320px;
   }
-}
+} */

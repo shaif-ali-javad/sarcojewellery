@@ -459,7 +459,7 @@ input[type="submit"]::-moz-focus-inner {
 
 /* Fonts
 ------------------------------------------------------------------------------*/
-
+/* 
 @font-face {
   font-family: "Novecentowide";
   src: url("../fonts/Novecentowide-Bold.eot");
@@ -524,7 +524,7 @@ input[type="submit"]::-moz-focus-inner {
     url("../fonts/Novecentowide-Light.svg#Novecentowide-Light") format("svg");
   font-weight: 300;
   font-style: normal;
-}
+} */
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-reso#lution: 192dpi) {
   #header .right-links span {

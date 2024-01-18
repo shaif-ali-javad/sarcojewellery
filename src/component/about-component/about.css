@@ -322,7 +322,7 @@ h1 {
 
 /* Fonts
 ------------------------------------------------------------------------------*/
-
+/* 
 @font-face {
   font-family: "Novecentowide";
   src: url("../fonts/Novecentowide-Bold.eot");
@@ -387,7 +387,7 @@ h1 {
     url("../fonts/Novecentowide-Light.svg#Novecentowide-Light") format("svg");
   font-weight: 300;
   font-style: normal;
-}
+} */
 
 /* ------------  jwl   ------------- */
 

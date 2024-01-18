@@ -1,7 +1,7 @@
 /* Fonts
 ------------------------------------------------------------------------------*/
 
-@font-face {
+/* @font-face {
   font-family: "Novecentowide";
   src: url("../fonts/Novecentowide-Bold.eot");
   src: url("../fonts/Novecentowide-Bold.eot?#iefix") format("embedded-opentype"),
@@ -65,7 +65,7 @@
     url("../fonts/Novecentowide-Light.svg#Novecentowide-Light") format("svg");
   font-weight: 300;
   font-style: normal;
-}
+} */
 
 /* all
   ------------------------------------------------------------------------------*/
@@ -76,12 +76,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: normal;
-  font-family: "Novecentowide";
 }
 
 body {
-  font: 16px/30px Arial, Helvetica, sans-serif;
   color: #949697;
   background: #fff;
   -webkit-text-size-adjust: none;
