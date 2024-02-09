@@ -23,6 +23,17 @@ const Home = () => {
   return (
     <div className="home-contain">
       <Slider />
+      <div className="space-0"></div>
+      <div style={{ marginTop: '140px', maxHeight: '400px', overflow: 'hidden' ,margin:"auto"}}>
+      <div style={{ margin: '15px auto', maxWidth: '575px', marginTop: '-1021px',paddingLeft:'35px' }}>
+        <iframe
+          title="Gold Price Widget"
+          scrolling="no"
+          src="https://www.livepriceofgold.com/dubai-gold-price.html.html"
+          style={{ border: '0px none', height: '1128px', width: '500px' }}
+        ></iframe>
+      </div>
+    </div>
       <div className="container-fluid intro" id="about">
         <div className="row">
           <div className="col-md-8 col-md-offset-2 m-auto">
